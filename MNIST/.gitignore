@@ -1,0 +1,7 @@
+# .gitignore
+*.csv
+*.pkl
+*.pth
+.DS_Store
+__pycache__/
+.venv/
