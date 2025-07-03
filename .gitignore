@@ -1,0 +1,6 @@
+# .gitignore
+emnist-digits-test.csv
+fashion-mnist-model.pkl
+fashion-mnist-model.pth
+__pycache__/
+.venv/
